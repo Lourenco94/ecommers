@@ -1,0 +1,22 @@
+{
+    "nome": "The Last of Us Remastered",
+    "empresa": "Naughty Dog",
+    "estilo": "Survival Horror",
+    "preco": "R$ 99,90",
+    "imagem": "<img src='img/TLOU.png' width='100px'>",
+    "nome2": "The Last of Us Parte I",
+    "empresa2": "Naughty Dog",
+    "estilo2": "Survival Horror",
+    "preco2": "R$ 349,90",
+    "imagem2": "<img src='img/TLOUPt1.jfif' width='100px'>",
+    "nome3": "The Last of Us Parte II",
+    "empresa3": "Naughty Dog",
+    "estilo3": "Survival Horror",
+    "preco3": "R$ 199,90",
+    "imagem3": "<img src='img/TLOUPt2.jpg' width='100px'>",
+    "imagem4": "<img src='img/TLOUPt2Remast.jfif' width='100px'>",
+    "nome4": "The Last of Us Parte II Remastered",
+    "empresa4": "Naughty Dog",
+    "estilo4": "Survival Horror",
+    "preco4": "R$ 284,90"
+}
